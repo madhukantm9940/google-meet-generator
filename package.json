@@ -2,7 +2,7 @@
   "name": "google-meet-generator",
   "version": "1.0.0",
   "description": "Appwrite Function to generate Google Meet links via Google Calendar API",
-  "main": "src/index.js",
+  "main": "index.js",
   "dependencies": {
     "node-appwrite": "^14.1.0",
     "googleapis": "^126.0.0"
